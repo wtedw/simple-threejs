@@ -1,0 +1,17 @@
+{
+    "name": "simple-threejs",
+    "version": "1.0.0",
+    "description": "Uses parcel",
+    "scripts": {
+        "start": "parcel index.html --open",
+        "build": "parcel build index.html"
+    },
+    "dependencies": {
+        "three": "^0.145.0"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.18.10",
+        "parcel": "^2.6.2"
+    },
+    "keywords": []
+}
